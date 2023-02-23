@@ -14,10 +14,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/jphilipps/fun-ts-elmish-react-legacy"
+        "url": "https://github.com/ScepLab/fun-ts-elmish-react-legacy"
     },
     "bugs": {
-        "url": "https://github.com/jphilipps/fun-ts-elmish-react-legacy/issues"
+        "url": "https://github.com/ScepLab/fun-ts-elmish-react-legacy/issues"
     },
     "keywords": [
         "fun",
