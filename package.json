@@ -1,7 +1,7 @@
 {
     "name": "fun-ts-elmish-react-legacy",
     "description": "Implementation of the elm architecture with typescript and a react wrapper for react version below 18.",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "author": {
         "name": "Jonathan Philipps",
         "url": "https://github.com/jphilipps"
